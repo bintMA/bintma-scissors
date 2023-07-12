@@ -85,7 +85,7 @@ To be able to get this application up and running, ensure to have [node](https:/
 1. **Download the project locally by forking this repo and then clone or just clone directly via:**
 
 ```bash
-git clone https://github.com/omobolajisonde/url-scissors.git
+git clone https://github.com/bintMA/bintma-scissors
 ```
 
 2. **Set up the Database**
@@ -210,9 +210,9 @@ Success
       "firstName": "Adeola",
       "lastName": "Adelodun",
       "email": "amadelodun@gmail.com",
-      "createdAt": "2022-11-06T10:39:47.077Z",
+      "createdAt": "2023-07-08T23:32:41.962Z",
       "active": true,
-      "_id": "6367a84845e5893038a55bf1"
+      "_id": "64a9f2e0f96fad3cjp74d5ca"
     }
   }
 }
@@ -248,11 +248,11 @@ Success
   "token": "<token>",
   "data": {
     "user": {
-      "_id": "6367a84845e5893038a55bf1",
+      "_id": "64a9f2e0f96fad3ca894d5ca",
       "firstName": "Adeola",
       "lastName": "Adelodun",
       "email": "amadelodun@gmail.com",
-      "createdAt": "2022-11-06T10:39:47.077Z"
+      "createdAt": "2023-07-08T23:32:41.962Z"
     }
   }
 }
